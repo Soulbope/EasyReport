@@ -5,8 +5,10 @@ Mais uma ferramenta da série EasyTools que se destina a deixar o trabalho buroc
 <h2>Um software para automatização de interação junto a ferramenta INFOR utilizando a linguagem Python.</h2>
 
 <div align="center">
-  <img height="280" width="200" alt="Easy PT"  src="![image](https://github.com/Soulbope/EasyReport/assets/102233091/fddb5e29-706a-42eb-b74d-58fb9501cadd)">
+  <img height="280" width="200" alt="Easy PT"  src="https://github.com/Soulbope/EasyReport/assets/102233091/77d988d8-5b24-47aa-85ea-2cded518f333">
 ">
+
+
 </div>
 
 <h3>Atualizações:</h3>
